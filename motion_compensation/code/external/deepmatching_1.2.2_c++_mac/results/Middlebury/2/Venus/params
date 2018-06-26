@@ -1,0 +1,19 @@
+method = TV_pwaff
+lambda = 10.00
+lambdaTV = 20.00
+gamma = 10.00
+tau = 1.20
+muInit = 0.01
+kappaInit = 0.01
+nuActivate = 0.00
+c2fSpacing = 2.00
+occThresh = 0.80
+consistencyTol = 2.00
+changeTol = 0.00
+changeTolTV = 0.00
+nbWarps = 2.00
+sigmaS = 5.00
+sigmaEdges = 0.10
+
+Varying parameters
+num - sigmaS lambda lambdaTV / aae aep time

@@ -33,3 +33,9 @@
 
 # Mac
 **.DS_Store
+
+# Output
+motion_compensation/tmp
+motion_compensation/results
+regression_analysis/*.eps
+artifact_detection/output
