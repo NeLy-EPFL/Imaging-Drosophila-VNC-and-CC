@@ -54,11 +54,6 @@ def HeatIm(image, out_path=None, colormap='jet'):
     3D numpy array
         RGB image in form of a numpy array.
         Third dimension encodes RGB.
-
-    Raises
-    ------
-    InputError
-        Raise if image is not two dimensional.
     """
     cmap = plt.get_cmap(colormap)
     color_img = cmap(image,bytes=True)
