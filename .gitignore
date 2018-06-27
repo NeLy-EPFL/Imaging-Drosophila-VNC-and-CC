@@ -39,3 +39,6 @@ motion_compensation/tmp
 motion_compensation/results
 regression_analysis/*.eps
 artifact_detection/output
+annotation/*.txt
+annotation/*.mp4
+annotation/output
