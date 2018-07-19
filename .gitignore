@@ -33,6 +33,7 @@
 
 # Mac
 **.DS_Store
+**.PBSyncDB
 
 # Output
 motion_compensation/tmp
