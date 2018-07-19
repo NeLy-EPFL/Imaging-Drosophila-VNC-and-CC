@@ -16,9 +16,9 @@ A detailed explanation of the functionning of the module is provided in the HowT
 
 Dependencies
 ------------
-python2     (tested with 2.7.10)
-numpy       (tested with 1.13.1)
-matplotlib  (tested with 1.3.1)
-cPikle      (tested with 1.71)
-PIL         (tested with 4.2.1)
+python2     (tested with 2.7.10)  
+numpy       (tested with 1.13.1)  
+matplotlib  (tested with 1.3.1)  
+cPikle      (tested with 1.71)  
+PIL         (tested with 4.2.1)  
 

@@ -16,11 +16,11 @@ A detailed explanation of the procedure to run the module is provided in the How
 
 Dependencies
 ------------
-python2     (tested with 2.7.10)
-OpenCV      (tested with 3.3.0)
-numpy       (tested with 1.13.1)
-matplotlib  (tested with 1.3.1)
-skimage     (tested with 0.13.0)
-PIL         (tested with 4.2.0)
-cPikle      (tested with 1.71)
+python2     (tested with 2.7.10)  
+OpenCV      (tested with 3.3.0)  
+numpy       (tested with 1.13.1)  
+matplotlib  (tested with 1.3.1)  
+skimage     (tested with 0.13.0)  
+PIL         (tested with 4.2.0)  
+cPikle      (tested with 1.71)  
 
